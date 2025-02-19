@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mostafaaaa1
-- 👀 I’m interested in embeded system ,c++ , front-end develping .
-- 🌱 I’m currently learning embeded system
+- 👀 I’m interested in Data Science and AI .
+- 🌱 I’m currently learning Data Scince at DEPI .
   
   
 
